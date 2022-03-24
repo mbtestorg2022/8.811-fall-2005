@@ -22,7 +22,7 @@ Lecture Notes
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Fundamental Building Blocks and their Interactions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec1))
+Fundamental Building Blocks and their Interactions ([PDF]({{< baseurl >}}/resources/lec1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +31,7 @@ Fundamental Building Blocks and their Interactions (![This resource may not rend
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Symmetries and Quarks; Discoveries of the J, Upsilon (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec2))
+Symmetries and Quarks; Discoveries of the J, Upsilon ([PDF]({{< baseurl >}}/resources/lec2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +40,7 @@ Symmetries and Quarks; Discoveries of the J, Upsilon (![This resource may not re
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Gluons, Particle-antiparticle, Gluons inside Nucleons (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec3))
+Gluons, Particle-antiparticle, Gluons inside Nucleons ([PDF]({{< baseurl >}}/resources/lec3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +49,7 @@ Gluons, Particle-antiparticle, Gluons inside Nucleons (![This resource may not r
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Dirac Formalism, Chirality, Helicity, Why Higgs? (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec4))
+Dirac Formalism, Chirality, Helicity, Why Higgs? ([PDF]({{< baseurl >}}/resources/lec4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +58,7 @@ Dirac Formalism, Chirality, Helicity, Why Higgs? (![This resource may not render
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Local Gauge Transformation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec5))
+Local Gauge Transformation ([PDF]({{< baseurl >}}/resources/lec5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +67,7 @@ Local Gauge Transformation (![This resource may not render correctly in a screen
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions of the Dirac Equation (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec6))
+Solutions of the Dirac Equation ([PDF]({{< baseurl >}}/resources/lec6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +76,7 @@ Solutions of the Dirac Equation (![This resource may not render correctly in a s
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Matrix, Decays, Cross Sections and Radiative Corrections (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec7))
+Matrix, Decays, Cross Sections and Radiative Corrections ([PDF]({{< baseurl >}}/resources/lec7))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +85,7 @@ Matrix, Decays, Cross Sections and Radiative Corrections (![This resource may no
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Polarization, Propagator, Interaction Matrix, Cross Sections and Unitarity Bounds (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec8))
+Polarization, Propagator, Interaction Matrix, Cross Sections and Unitarity Bounds ([PDF]({{< baseurl >}}/resources/lec8))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +94,7 @@ Polarization, Propagator, Interaction Matrix, Cross Sections and Unitarity Bound
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Unitarity Bound Violation and "New" Particles (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec9))
+Unitarity Bound Violation and "New" Particles ([PDF]({{< baseurl >}}/resources/lec9))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +103,7 @@ Unitarity Bound Violation and "New" Particles (![This resource may not render co
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Bottom-up Approach: Unitarity Bounds, "New" Particles and their Coupling Constants (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec10))
+Bottom-up Approach: Unitarity Bounds, "New" Particles and their Coupling Constants ([PDF]({{< baseurl >}}/resources/lec10))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +112,7 @@ Bottom-up Approach: Unitarity Bounds, "New" Particles and their Coupling Constan
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Unitarity Bounds, Higgs, its Coupling Constants and Limit on its Mass (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec11))
+Unitarity Bounds, Higgs, its Coupling Constants and Limit on its Mass ([PDF]({{< baseurl >}}/resources/lec11))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +121,7 @@ Unitarity Bounds, Higgs, its Coupling Constants and Limit on its Mass (![This re
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Electro-weak Interactions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec12))
+Electro-weak Interactions ([PDF]({{< baseurl >}}/resources/lec12))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +130,7 @@ Electro-weak Interactions (![This resource may not render correctly in a screen 
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Review (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec13))
+Review ([PDF]({{< baseurl >}}/resources/lec13))
 {{< tdclose >}}
 
 {{< trclose >}}

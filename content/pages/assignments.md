@@ -38,7 +38,7 @@ Solutions
 Problem Set 1 ([PDF]({{< baseurl >}}/resources/assignment1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sol1))
+([PDF]({{< baseurl >}}/resources/sol1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +47,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/assignment1))
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/assignment2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sol2))
+([PDF]({{< baseurl >}}/resources/sol2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +56,7 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/assignment2))
 Problem Set 3 ([PDF]({{< baseurl >}}/resources/assignment3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sol3))
+([PDF]({{< baseurl >}}/resources/sol3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +65,7 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/assignment3))
 Problem Set 4 ([PDF]({{< baseurl >}}/resources/assignment4a))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sol4))
+([PDF]({{< baseurl >}}/resources/sol4))
 {{< tdclose >}}
 
 {{< trclose >}}
