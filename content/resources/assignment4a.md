@@ -7,6 +7,7 @@ description: This resource contains information about the midterm exam, and the 
   matrix element in the d dbar-> W pair reaction.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-811-particle-physics-ii-fall-2005/9e378da4a5688638adb90c44a1e3c4b6_assignment4a.pdf
 file_type: application/pdf
+parent_uid: ee1af684-b42f-0c32-f73f-75d9cf564912
 resourcetype: Document
 title: assignment4a.pdf
 uid: 9e378da4-a568-8638-adb9-0c44a1e3c4b6

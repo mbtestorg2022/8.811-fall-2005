@@ -4,6 +4,7 @@ description: 'This resource explains following topics: determination of G, Optic
   theorem, Optical theorem in diagrammatic expression, and general unitarity limits.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/8-811-particle-physics-ii-fall-2005/bf38eaa413c898c8d32597db0104362b_lec8.pdf
 file_type: application/pdf
+parent_uid: 8c971b08-abe8-1461-0c04-fbbd833d7c4d
 resourcetype: Document
 title: lec8.pdf
 uid: bf38eaa4-13c8-98c8-d325-97db0104362b
